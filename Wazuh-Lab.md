@@ -52,7 +52,7 @@ For outflow, I ensured that my agents could also communicate on those ports, inc
 
 - **Agents**: For my agents, their IP address was permitted to change, and I wanted to access my server from anywhere, so I configured my server's firewall to permit IP addresses on `0.0.0.0/0`, and left my agents' IP addresses as dynamic/ephemeral.
 
-> **Security Note:** Google Cloud uses SSH keys by default, preventing password brute force attacks from getting their instances since their public IP address range is well known. If you aren't using Google Cloud Platform or any cloud platform with such protection, I'll advise you to use a stronger password and protect your public IP from attacks (not always feasible given how public IP addresses are structured, so use a robust password).
+> **Security Note:** Google Cloud uses SSH keys by default, preventing password brute force attacks from getting their instances since their public IP address range is well known. Suppose you aren't using Google Cloud Platform or any cloud platform with such protection. In that case, I'll advise you to use a stronger password and protect your public IP from attacks (not always feasible given how public IP addresses are structured, so use a robust password).
 
 ## Wazuh Installation
 
@@ -91,7 +91,7 @@ Using the login credentials I copied after my installation, I accessed my Wazuh 
 
 ## Additional Resources
 
-- **Comprehensive Setup Guide**: [Check this link for a comprehensive guide I wrote on setting up a Wazuh SIEM SOC](#)
+- **Comprehensive Setup Guide**: [](#)
 - **Official Documentation**: [Wazuh Documentation](https://documentation.wazuh.com/)
 
 ---
