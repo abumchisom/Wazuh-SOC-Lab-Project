@@ -91,7 +91,7 @@ Using the login credentials I copied after my installation, I accessed my Wazuh 
 
 ## Additional Resources
 
-- **Comprehensive Setup Guide**: [](https://chisom.hashnode.dev/setting-up-a-wazuh-project-a-siem-and-xdr-platform-from-scratch)
+- **Comprehensive Setup Guide**: [Check Here](https://chisom.hashnode.dev/setting-up-a-wazuh-project-a-siem-and-xdr-platform-from-scratch)
 - **Official Documentation**: [Wazuh Documentation](https://documentation.wazuh.com/)
 
 ---
