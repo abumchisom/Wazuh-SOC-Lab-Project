@@ -39,8 +39,8 @@ The goal of this project is to simulate a real-world SOC environment using cloud
 
 1. **Clone this repository:**
    ```sh
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/abumchisom/Wazuh-SOC-Lab-Project.git
+   cd Wazuh-SOC-Lab-Project
    ```
 
 2. **Read the project report:**
