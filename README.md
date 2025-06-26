@@ -54,7 +54,7 @@ The goal of this project is to simulate a real-world SOC environment using cloud
 
 - [Wazuh Documentation](https://documentation.wazuh.com/)
 - [Google Cloud Platform](https://cloud.google.com/)
-- [Comprehensive Setup Guide](#) <!-- Replace with actual link if available -->
+- [Comprehensive Setup Guide](https://chisom.hashnode.dev/setting-up-a-wazuh-project-a-siem-and-xdr-platform-from-scratch) <!-- Replace with actual link if available -->
 
 ---
 
