@@ -1,6 +1,8 @@
 # Wazuh Cloud-Hosted SOC Lab
 
-This repository contains a comprehensive project report on how to build a cloud-hosted Security Operations Center (SOC) lab using Wazuh SIEM. The project demonstrates practical steps for deploying, configuring, and managing a modern SOC environment in the cloud, with a focus on hands-on cybersecurity monitoring and analysis.
+This repository contains a comprehensive project report on how to build a cloud-hosted Security Operations Center (SOC) lab using Wazuh SIEM. The project demonstrates practical steps for deploying, configuring, and managing a modern SOC environment in the cloud.
+
+In this project, I integrated threat intelligence using VirusTotal and automated alerts to reduce detection time and response effort.
 
 ---
 
