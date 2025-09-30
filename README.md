@@ -55,6 +55,8 @@ The goal of this project is to simulate a real-world SOC environment using cloud
 - [Wazuh Documentation](https://documentation.wazuh.com/)
 - [Google Cloud Platform](https://cloud.google.com/)
 - [Comprehensive Setup Guide](https://chisom.hashnode.dev/setting-up-a-wazuh-project-a-siem-and-xdr-platform-from-scratch) <!-- Replace with actual link if available -->
+- [How I Set Up VirusTotal for Automated Threat Intel](https://github.com/abumchisom/Wazuh-VirusTotal)
+- [How I Set up Automated Email Alert for Detected Threats](https://github.com/abumchisom/wazuh-email-automation)
 
 ---
 
